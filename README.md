@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm looking to work with a team on solving real life problems on real world applications.<br>
+I'm Ritesh Nahavre third year B.tech student.
+I'm looking to work with a team on solving real world problems on real world applications.<br>
 
 
 ## 🌐 Socials:
@@ -11,11 +12,5 @@ I'm looking to work with a team on solving real life problems on real world appl
 ![](https://github-readme-stats.vercel.app/api?username=Revenant2909&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Revenant2909&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Revenant2909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Revenant2909&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
