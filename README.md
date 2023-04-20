@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm Ritesh Nahavre third year B.tech student.
-I'm looking to work with a team on solving real world problems on real world applications.<br>
+I'm Ritesh Nahavre third year B.tech student.<br>
+I'm looking to work with a team on solving problems on real world applications.<br>
+No teeny-tiny projects only Real world web applications.<br>
 
 
 ## 🌐 Socials:
