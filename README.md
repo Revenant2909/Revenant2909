@@ -1,6 +1,6 @@
 #  About Me:
 I'm Ritesh Nahavre third year B.tech student.<br>
-No teeny-tiny projects only Real world web applications.<br>
+I like to work on Real world web applications.<br>
 
 
 ## 🌐 Socials:
