@@ -2,7 +2,7 @@
 I'm Ritesh Nahavre final year B.tech student.<br>
 I like to work on Real world web applications.<br>
 # My Resume link
-[!Resume_Ritesh_Nahavre](https://drive.google.com/file/d/15_VrtiCNxMgjoVf540ZnFLdcbAVWzZI3/view?usp=sharing)]
+[Resume_Ritesh_Nahavre](https://drive.google.com/file/d/15_VrtiCNxMgjoVf540ZnFLdcbAVWzZI3/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/revenant_2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshnahavre2909) 
