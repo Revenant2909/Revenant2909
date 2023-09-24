@@ -1,5 +1,5 @@
 #  About Me:
-I'm Ritesh Nahavre third year B.tech student.<br>
+I'm Ritesh Nahavre final year B.tech student.<br>
 I like to work on Real world web applications.<br>
 # My Resume link
 https://drive.google.com/file/d/1dLOPgqR5QuRiGHJZk7EA7jOaSvZXkvJO/view?usp=sharing
